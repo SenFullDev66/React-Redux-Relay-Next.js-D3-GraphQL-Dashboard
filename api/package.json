@@ -1,5 +1,5 @@
 {
-  "name": "next-dashboard-api",
+  "name": "React-Redux-Relay-Next.js-dashboard-API",
   "version": "0.3.0",
   "private": true,
   "dependencies": {
@@ -38,6 +38,7 @@
     "passport-facebook": "~3.0.0",
     "passport-google-oauth": "~2.0.0",
     "passport-twitter": "~1.0.4",
+    "pm2": "^4.2.1",
     "regenerator-runtime": "~0.13.3",
     "sharp": "~0.22.1",
     "socket.io": "~2.2.0",
