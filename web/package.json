@@ -40,7 +40,7 @@
     "moment": "~2.24.0",
     "moment-timezone": "~0.5.26",
     "morgan": "~1.9.1",
-    "next": "~9.0.2",
+    "next": "~9.3.2",
     "next-compose-plugins": "~2.2.0",
     "null-loader": "~3.0.0",
     "postcss-clean": "~1.1.0",
